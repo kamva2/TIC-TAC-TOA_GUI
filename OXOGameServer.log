@@ -1,0 +1,190 @@
+OXO Game Server Started: 2024-05-05 01:27:57.719387
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 60426)
+Connected Client 1: ('127.0.0.1', 60514)
+Sent Message Client 1: new game,X
+Sent Message Client 0: new game,O
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 60840)
+Connected Client 1: ('127.0.0.1', 60948)
+Sent Message Client 1: new game,X
+Sent Message Client 0: new game,O
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+Received Message Client 1: 2
+Sent Message Client 1: valid move,X,2
+Sent Message Client 0: valid move,X,2
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 64343)
+Connected Client 1: ('127.0.0.1', 64804)
+Sent Message Client 0: new game,O
+Sent Message Client 1: new game,X
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 50995)
+Connected Client 1: ('127.0.0.1', 51079)
+Sent Message Client 1: new game,O
+Sent Message Client 0: new game,X
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 57202)
+Connected Client 1: ('127.0.0.1', 57222)
+Sent Message Client 1: new game,O
+Sent Message Client 0: new game,X
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+Received Message Client 1: 1
+Sent Message Client 1: valid move,O,1
+Sent Message Client 0: valid move,O,1
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 57229)
+Connected Client 1: ('127.0.0.1', 57232)
+Sent Message Client 1: new game,X
+Sent Message Client 0: new game,O
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 57348)
+Connected Client 1: ('127.0.0.1', 57350)
+Sent Message Client 1: new game,X
+Sent Message Client 0: new game,O
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 57360)
+Connected Client 1: ('127.0.0.1', 57362)
+Sent Message Client 1: new game,X
+Sent Message Client 0: new game,O
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 57394)
+Connected Client 1: ('127.0.0.1', 57396)
+Sent Message Client 0: new game,O
+Sent Message Client 1: new game,X
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 50605)
+Connected Client 1: ('127.0.0.1', 50610)
+Sent Message Client 0: new game,X
+Sent Message Client 1: new game,O
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 50651)
+Connected Client 1: ('127.0.0.1', 50652)
+Sent Message Client 0: new game,X
+Sent Message Client 1: new game,O
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+Received Message Client 0: 1
+Sent Message Client 0: valid move,X,1
+Sent Message Client 1: valid move,X,1
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 62761)
+Connected Client 1: ('127.0.0.1', 62982)
+Sent Message Client 0: new game,O
+Sent Message Client 1: new game,X
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 63355)
+Connected Client 1: ('127.0.0.1', 63356)
+Sent Message Client 0: new game,O
+Sent Message Client 1: new game,X
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+Received Message Client 0: 1
+Sent Message Client 0: valid move,O,1
+Sent Message Client 1: valid move,O,1
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
+ERROR:[WinError 10054] An existing connection was forcibly closed by the remote host
+
+Game Server is being restarted.
+
+*** OXO GAME SERVER STARTED ***
+Waiting for client connections.
+Connected Client 0: ('127.0.0.1', 51141)
+Connected Client 1: ('127.0.0.1', 51150)
+Sent Message Client 0: new game,X
+Sent Message Client 1: new game,O
+Sent Message Client 0: your move
+Sent Message Client 1: opponents move
+Received Message Client 0: 0
+Sent Message Client 0: valid move,X,0
+Sent Message Client 1: valid move,X,0
+Sent Message Client 1: your move
+Sent Message Client 0: opponents move
